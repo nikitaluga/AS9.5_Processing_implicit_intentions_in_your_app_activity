@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='9.5_Processing_implicit_intentions_in_your_app_activity'
